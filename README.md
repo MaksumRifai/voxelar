@@ -30,7 +30,11 @@ For this expample, we use Image Tracking Type of AR.js with Aframe.js.
 ## Image Tracking
 Natural Feature Tracking or NFT is a technology that enables the use of images instead of markers like QR Codes or the Hiro marker.
 It comes in two versions: [the Web version](https://carnaux.github.io/NFT-Marker-Creator/) (recommended), and the [node.js version](https://github.com/Carnaux/NFT-Marker-Creator).
-### Create Descriptors:
+
+### Choose Good Images
+If you want to understand the creation of markers in more depth, check out the NFT Marker Creator [wiki](https://github.com/Carnaux/NFT-Marker-Creator/wiki/Creating-good-markers). It explains also why certain images work way better than others. An important factor is the DPI of the image: a good dpi (300 or more) will give a very good stabilization, while low DPI (like 72) will require the user to stay very still and close to the image, otherwise tracking will lag.
+
+### Create Image Descriptors:
 <img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/photo.jpg" width="150">
 We create descriptor with this picture (photo.jpg) by uploading to NFT creator web version above then return 3 files to use:
 
