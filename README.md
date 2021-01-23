@@ -21,11 +21,11 @@ Import Aframe.js:
 <script src="https://cdn.jsdelivr.net/gh/aframevr/aframe@1c2407b26c61958baa93967b5412487cd94b290b/dist/aframe-master.min.js"></script>
 ```
 
-### Image Tracking
+## Image Tracking
 Natural Feature Tracking or NFT is a technology that enables the use of images instead of markers like QR Codes or the Hiro marker.
+It comes in two versions: [the Web version](https://carnaux.github.io/NFT-Marker-Creator/) (recommended), and the [node.js version](https://github.com/Carnaux/NFT-Marker-Creator).
+### Create Descriptors
+<img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/photo.jpg" width="150">
+We create descriptor with this picture (photo.jpg) by uploading to NFT creator web version above then return 3 files to use:  
+.fset, .fset3, .iset. Each of them will have the same prefix before the file extension. That one will be the Image Descriptor name that you will use on the AR.js web app. For example: with files photo.fset, photo.fset3 and photo.iset, your Image Descriptors name will be photo.
 
-The software tracks interesting points in the image and using them, it estimates the position of the camera.
-
-These interesting points (aka "Image Descriptors") are created using the NFT Marker Creator, a tool available for creating NFT markers.
-
-It comes in two versions: [the Web version](https://carnaux.github.io/NFT-Marker-Creator/) (recommended), and the [node.js version](https://github.com/Carnaux/NFT-Marker-Creator). There is also a fork of this project on the AR.js Github organisation, but as for now, Daniel Fernandes version works perfectly.
