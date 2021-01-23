@@ -1,13 +1,13 @@
 # Voxel AR
-For this Project, I used AR.js and Aframe.js library, Image Descriptor, and Voxel.
-
 <img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/preview.jpg" width="200">
+For this Project, I used AR.js and Aframe.js library, Image Descriptor, and Voxel.
+https://github.com/MaksumRifai/voxelar (Repo) | https://maksumrifai.github.io/voxelar (Live)
 
 ## AR.js
 AR.js is a lightweight library for Augmented Reality on the Web, coming with features like Image Tracking, Location based AR and Marker tracking.
 
 ## Aframe.js
-Web framework for building virtual reality experiences. I created a VR project with aframe if you want to read: https://github.com/MaksumRifai/digitaltalent 
+Web framework for building virtual reality experiences. I created a VR project with aframe if you want to read: https://github.com/MaksumRifai/digitaltalent (Repo) | https://digitaltalent.netlify.app (Live)
 
 ### Import the library
 
@@ -21,7 +21,7 @@ Import Aframe.js:
 <script src="https://cdn.jsdelivr.net/gh/aframevr/aframe@1c2407b26c61958baa93967b5412487cd94b290b/dist/aframe-master.min.js"></script>
 ```
 For this expample, we use Image Tracking Type of AR.js with Aframe.js.
-[Further Reading](https://ar-js-org.github.io/AR.js-Docs/) for another types from official docs.
+[Further Reading](https://ar-js-org.github.io/AR.js-Docs/) for another types from AR.js official docs.
 
 ## Image Tracking
 Natural Feature Tracking or NFT is a technology that enables the use of images instead of markers like QR Codes or the Hiro marker.
@@ -36,10 +36,6 @@ We create descriptor with this picture (photo.jpg) by uploading to NFT creator w
 You can download and use 3D models or object from anywhere or create your own with Blender. For this repo, I created my own model based on [Bekasidev](https://bekasidev.org) Logo with MagicaVoxel, you can watch tutorial on my youtube channel here for DTS Kominfo Logo:
 
 - [10 Menit Membuat Logo 3D (Digital Talent Scholarship)](https://www.youtube.com/watch?v=0GfNYFcDjMU&t=6s)
-- [Membuat rumah dengan MagicaVoxel](https://www.youtube.com/watch?v=nbfeWj46R3c)
-
-<a href="https://www.youtube.com/watch?v=0GfNYFcDjMU&t=6s"><img src="https://i3.ytimg.com/vi/0GfNYFcDjMU/hqdefault.jpg"></a>
-
 
 ## Render Content to the Scene
 ```
@@ -74,3 +70,6 @@ You can download and use 3D models or object from anywhere or create your own wi
   <!--End of Scene-->
 ```
 
+You can refer to [A-Frame docs](https://aframe.io/docs/1.0.0/introduction/) to know everything about content and customization. You can add geometries, 3D models, videos, images. And you can customize their position, scale, rotation and so on.
+
+The only custom component here is the a-nft, the Image Tracking HTML anchor.
