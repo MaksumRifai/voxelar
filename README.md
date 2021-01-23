@@ -1,13 +1,17 @@
 # Voxel AR
 <img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/preview.jpg" width="200">
 For this Project, I used AR.js and Aframe.js library, Image Descriptor, and Voxel.
+
 https://github.com/MaksumRifai/voxelar (Repo) | https://maksumrifai.github.io/voxelar (Live)
+
+With that cam ready on your phone, Scan BekasiDev Sticker or open logo from bekasidev.org with your Laptop or PC.
 
 ## AR.js
 AR.js is a lightweight library for Augmented Reality on the Web, coming with features like Image Tracking, Location based AR and Marker tracking.
 
 ## Aframe.js
-Web framework for building virtual reality experiences. I created a VR project with aframe if you want to read: https://github.com/MaksumRifai/digitaltalent (Repo) | https://digitaltalent.netlify.app (Live)
+Web framework for building virtual reality experiences. I created a VR project with aframe if you want to read: 
+https://github.com/MaksumRifai/digitaltalent (Repo) | https://digitaltalent.netlify.app (Live)
 
 ### Import the library
 
