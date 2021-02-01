@@ -1,10 +1,16 @@
 # Voxel AR
-<img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/preview.jpg" width="200">
+<img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/voxelar-preview.gif" width="450">
 For this Project, I used AR.js and Aframe.js library, Image Descriptor, and Voxel.
 
 https://github.com/MaksumRifai/voxelar (Repo) | https://maksumrifai.github.io/voxelar (Live)
 
-With that cam ready on your phone, Scan BekasiDev Sticker or open logo from bekasidev.org with your Laptop or PC.
+Open Live Demo with Chrome Mobile Browser or AR/VR/XR Devices, When that cam ready, Scan BekasiDev Sticker or Logo from bekasidev.org Or you can use image below
+
+Note for Desktop Browser you need latest Chrome or Edge that suported and enabled for WebVR Experiences, and also good desktop camera (Webcam), Recommended use Mobile Browser.
+
+<img src="https://raw.githubusercontent.com/Bekasi-Dev-Community/bekasidev/master/assets/img/brand/bekasidev-stiker.png" width="450">
+
+# Libraries
 
 ## AR.js
 AR.js is a lightweight library for Augmented Reality on the Web, coming with features like Image Tracking, Location based AR and Marker tracking.
@@ -12,6 +18,8 @@ AR.js is a lightweight library for Augmented Reality on the Web, coming with fea
 ## Aframe.js
 Web framework for building virtual reality experiences. I created a VR project with aframe if you want to read: 
 https://github.com/MaksumRifai/digitaltalent (Repo) | https://digitaltalent.netlify.app (Live)
+https://github.com/maksumrifai/360vr (Repo) | https://maksumrifai.github.io/360vr (Live)
+https://github.com/maksumrifai/kumparan (Repo) | https://maksumrifai.github.io/kumparan (Live)
 
 ### Import the library
 
@@ -41,7 +49,11 @@ We create descriptor with this picture (photo.jpg) by uploading to NFT creator w
 .fset, .fset3, .iset. Each of them will have the same prefix before the file extension. That one will be the Image Descriptor name that you will use on the AR.js web app. For example: with files photo.fset, photo.fset3 and photo.iset, your Image Descriptors name will be photo.
 
 ### Create Object
-You can download and use 3D models or object from anywhere or create your own with Blender. For this repo, I created my own model based on [Bekasidev](https://bekasidev.org) Logo with MagicaVoxel, you can watch tutorial on my youtube channel here for DTS Kominfo Logo:
+You can download and use 3D models or object from anywhere or create your own with Blender. For this repo, I created my own model based on [Bekasidev](https://bekasidev.org) Logo with MagicaVoxel.
+
+<img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/ss-mv-bekdev.jpg" width="600">
+
+You can watch tutorial on my youtube channel here for DTS Kominfo Logo:
 
 - [10 Menit Membuat Logo 3D (Digital Talent Scholarship)](https://www.youtube.com/watch?v=0GfNYFcDjMU&t=6s)
 
@@ -80,4 +92,4 @@ You can download and use 3D models or object from anywhere or create your own wi
 
 You can refer to [A-Frame docs](https://aframe.io/docs/1.0.0/introduction/) to know everything about content and customization. You can add geometries, 3D models, videos, images. And you can customize their position, scale, rotation and so on.
 
-The only custom component here is the a-nft, the Image Tracking HTML anchor.
+The only custom component here is the a-nft, the Image Tracking HTML anchor. You may see my other project for references.
