@@ -51,7 +51,7 @@ We create descriptor with this picture (photo.jpg) by uploading to NFT creator w
 ### Create Object
 You can download and use 3D models or object from anywhere or create your own with Blender. For this repo, I created my own model based on [Bekasidev](https://bekasidev.org) Logo with MagicaVoxel.
 
-<img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/ss-mv-bekdev.jpg" width="600">
+<img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/ss-mv-bekdev.jpg">
 
 You can watch tutorial on my youtube channel here for DTS Kominfo Logo:
 
