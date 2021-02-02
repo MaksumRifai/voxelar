@@ -95,7 +95,7 @@ You can refer to [A-Frame docs](https://aframe.io/docs/1.0.0/introduction/) to k
 The only custom component here is the a-nft, the Image Tracking HTML anchor. You may see my other project for references.
 
 - 360° Image VR, Add 3D bus into 360 Degree Image ([Repo](https://github.com/MaksumRifai/360vr) | [Demo](https://maksumrifai.github.io/360vr))
-- Simple Object and Animation VR, Add 3D DTS logo Into Environment ([repo](https://github.com/MaksumRifai/digitaltalent) | [Demo](https://digitaltalent.netlify.app))
+- Simple Object and Animation VR, Add 3D DTS logo Into Environment ([Repo](https://github.com/MaksumRifai/digitaltalent) | [Demo](https://digitaltalent.netlify.app))
 - WebAR Image Tracking with Kumparan Logo Umbrella ([Repo](https://github.com/MaksumRifai/kumparan-ar) | [Demo](https://maksumrifai.github.io/kumparan-ar))
 
 <a href="https://maksumrifai.github.io/360vr"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/360vr-preview.gif"></a>
@@ -117,6 +117,8 @@ Use green button above and click "Download Zip" or simply click [here](https://g
 In case you want to use your own models, simply replace the [.obj .mtl .png](https://en.m.wikipedia.org/wiki/Wavefront_.obj_file) files with yours. Don't forget to export your MagicaVoxel or Blender project properly.
 
 And edit this repo as you needed, you only need to replace URL/File name with yours, and the descripted files (fset, iset, fset3) you created with your own source image, use your favorite code editor, directly in web browser or github desktop.
+
+<img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/ss-vsc.jpg">
 
 For better and faster development or debugging this project, you can use [Spck Code/Git Editor](http://play.google.com/store/apps/details?id=io.spck) for Android, I mainly use this way.
 
@@ -155,5 +157,6 @@ A free lightweight GPU-based voxel art editor and interactive path tracing rende
 
 ### Support Me
 <a href="https://www.paypal.me/maksumrifai"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRU16oC9ndfwmD5a14Df0X7B96ummOHmQGsg&usqp=CAU" width="200"></a> <a href="https://invoice.xendit.co/donation/Dukungan"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROR5VQJr0XTxLh-kmhGyyyQA0i8ISLTxQRcg&usqp=CAU" width="200"></a>
+
 <a href="https://github.com/desainerhub"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/learn.png" width="200"></a>
 <a href="https://github.com/Bekasi-Dev-Community"><img src="https://raw.githubusercontent.com/Bekasi-Dev-Community/bekasidev/master/assets/img/brand/bekasidev-banner.png" width="200"></a>
