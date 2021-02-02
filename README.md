@@ -53,6 +53,9 @@ You can download and use 3D models or object from anywhere or create your own wi
 You can watch tutorial on my youtube channel here for DTS Kominfo Logo:
 
 - [10 Menit Membuat Logo 3D (Digital Talent Scholarship)](https://www.youtube.com/watch?v=0GfNYFcDjMU&t=6s)
+- [Membuat rumah dengan MagicaVoxel](https://www.youtube.com/watch?v=nbfeWj46R3c)
+- [Tutorial Blender 3D Basic : View, Navigation, Transformation](https://www.youtube.com/watch?v=tEAuDC7SjsQ&t=33s)
+
 
 ## Render Content to the Scene
 ```
@@ -91,13 +94,11 @@ You can refer to [A-Frame docs](https://aframe.io/docs/1.0.0/introduction/) to k
 
 The only custom component here is the a-nft, the Image Tracking HTML anchor. You may see my other project for references.
 
-- [https://github.com/MaksumRifai/360vr](https://github.com/MaksumRifai/360vr)
-- [https://github.com/MaksumRifai/digitaltalent](https://github.com/MaksumRifai/digitaltalent)
+- 360° Image VR, Add 3D bus into 360 Degree Image ([Repo](https://github.com/MaksumRifai/360vr) | [Demo](https://maksumrifai.github.io/360vr))
+- Simple Object and Animation VR, Add 3D DTS logo Into Environment ([repo](https://github.com/MaksumRifai/digitaltalent) | [Demo](https://digitaltalent.netlify.app))
 
-Click image below with Chrome Mobile Browser or AR/VR/XR Devices to Try it:
-
-<a href="https://maksumrifai.github.io/360vr"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/preview-360-2.png" width="200"></a>
-<a href="https://digitaltalent.netlify.app"><img src="https://raw.githubusercontent.com/MaksumRifai/digitaltalent/master/ss-dts-1.jpg" width="200"></a>
+<a href="https://maksumrifai.github.io/360vr"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/preview-360-2.png"></a>
+<a href="https://digitaltalent.netlify.app"><img src="https://raw.githubusercontent.com/MaksumRifai/digitaltalent/master/dts-preview.gif"></a>
 
 ## How to use this template
 
@@ -152,5 +153,5 @@ A free lightweight GPU-based voxel art editor and interactive path tracing rende
 
 ### Support Me
 <a href="https://www.paypal.me/maksumrifai"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRU16oC9ndfwmD5a14Df0X7B96ummOHmQGsg&usqp=CAU" width="200"></a> <a href="https://invoice.xendit.co/donation/Dukungan"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROR5VQJr0XTxLh-kmhGyyyQA0i8ISLTxQRcg&usqp=CAU" width="200"></a>
-<a href="https://github.com/desainerhub"><img src="https://i2.wp.com/desainerhub.com/wp-content/uploads/2020/05/LEARN-BIRU.png" width="200"></a>
+<a href="https://github.com/desainerhub"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/learn.png" width="200"></a>
 <a href="https://github.com/Bekasi-Dev-Community"><img src="https://raw.githubusercontent.com/Bekasi-Dev-Community/bekasidev/master/assets/img/brand/bekasidev-banner.png" width="200"></a>
