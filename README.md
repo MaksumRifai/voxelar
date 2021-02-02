@@ -96,9 +96,11 @@ The only custom component here is the a-nft, the Image Tracking HTML anchor. You
 
 - 360° Image VR, Add 3D bus into 360 Degree Image ([Repo](https://github.com/MaksumRifai/360vr) | [Demo](https://maksumrifai.github.io/360vr))
 - Simple Object and Animation VR, Add 3D DTS logo Into Environment ([repo](https://github.com/MaksumRifai/digitaltalent) | [Demo](https://digitaltalent.netlify.app))
+- WebAR Image Tracking with Kumparan Logo Umbrella ([Repo](https://github.com/MaksumRifai/kumparan-ar) | [Demo](https://maksumrifai.github.io/kumparan-ar))
 
-<a href="https://maksumrifai.github.io/360vr"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/preview-360-2.png"></a>
+<a href="https://maksumrifai.github.io/360vr"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/360vr-preview.gif"></a>
 <a href="https://digitaltalent.netlify.app"><img src="https://raw.githubusercontent.com/MaksumRifai/digitaltalent/master/dts-preview.gif"></a>
+<a href="https://maksumrifai.github.io/kumparan-ar"><img src="https://raw.githubusercontent.com/MaksumRifai/kumparan-ar/master/kumparan-preview.gif"></a>
 
 ## How to use this template
 
